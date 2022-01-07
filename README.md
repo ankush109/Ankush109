@@ -1,4 +1,4 @@
-<h1>Hey , I'm Ankush Banerjee <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
+<h1>Hey , I'm Ankush Banerjee  height="30px" width="220px"></h1>
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
 </div>
