@@ -1,147 +1,68 @@
-<h1>Hey , I'm Ankush Banerjee  height="30px" width="220px"></h1>
+<h1>Hey , <strong>I'm Ankush Banerjee </strong> </h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I+am+a+GAMING+Enthusiast"/>
 </div>
 <br />
 <div>
   <p align="middle">
-  <a href="https://www.linkedin.com/in/sagnik-ghosh-564574199">
+  <a href="https://www.linkedin.com/in/ankush-banerjee-05b0b421a/">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
-  <a href="mailto:sagnikghoshmandra@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
-  <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100036939404474">
+  
+  <a href="https://www.facebook.com/ankush.banerjee.1042/">
   <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/sagnikghoshcr7">
+  </a>/
+  <a href="https://www.instagram.com/its_ankush_003/">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com/Sagnikghoshcr7">
+<!--   <a href="https://twitter.com/Sagnikghoshcr7">
   <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
-  </a>
-  <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
-  </p>
+  </a> -->
+
 </div>
 
-<br />
-<br />
 
-<div>
-  <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
-</div>
-
-<!-- <div>
-  <img align="right" alt="GIF" height="300px" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
-</div> -->
-
-<!-- <div>
-[<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
-</div> -->
-
-<br />
-<br />
-<br />
-
-<div>
-<a href="https://leetcode.com/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
-</a>
-<a href="https://www.hackerrank.com/sagnikghoshmand1/">
-  <img align="left" alt="Sagnik's HackerRank" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.png" />
-</a>
-<a href="https://www.codechef.com/users/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
-</a>
-<a href="https://codeforces.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.png" />
-</a>
-<a href="https://app.codesignal.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/sagnikghoshcr7/practice/">
-  <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
-</a>
-<a href="https://cssbattle.dev/player/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CSSBattle" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CSSBattle.png" />
-</a>
-<a href="https://www.codewars.com/users/sagnikghoshcr7">
-  <img align="left" width="350px" alt="Sagnik's CodeWars" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
-</a>
-</div>
-
-<br />
-<br />
-<br />
-
-<div>
-<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
-  <img align="left" alt="Spotify Now Playing" src="https://spotify-git-master.sagnikghoshcr7.vercel.app/api/spotify" />
-</a>
-</div>
 
 <div>
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <div>
 <br />
 <br />
 <br />
-<br />
-<p align="center">
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
-<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
-</p>
-</div>
 
 <br />
 <br />
 <br />
 <br />
+  <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+  
+  
+Hi there,
+I am Ankush Banerjee , am pursuing Btech in CompSc from Techno Main Saltlake ,Kolkata.Since childhood i had a interest in computer and technology.Later i developed interest in coding and am on learning stage where i have learnt Reactjs, Java,C ,etc.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff0000" />&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />
-  <br/>
-<!--   <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <br/>
-</p>
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
