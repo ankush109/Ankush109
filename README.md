@@ -7,7 +7,6 @@
 - 💬 Ask me about **MERN , MEAN , NEXT  anything javascripty**
 
 - 📫 How to reach me **banerjeeankush184@gmail.com**
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fzenitsu-godspeed-gif-24797926&psig=AOvVaw2JFrhnEn6EP4tAp0fuyOAT&ust=1681908736744000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJi4mru8s_4CFQAAAAAdAAAAABAJ" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ankush-banerjee-05b0b421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushan-dutta-bb68b021a" height="30" width="40" /></a>
