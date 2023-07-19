@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankush Banerjee</h1>
 <h3 align="center">I solve real world problems with code</h3>
 
-<img  align="center"  src="https://media.tenor.com/xnIrfZQ0uU8AAAAd/zenitsu-blush-zenitsu-agatsuma.gif" alt="z" />
+
+<img  align="center"  src="https://media.tenor.com/LRX70W-QD7MAAAAC/jjk-jujutsu-kaisen.gif" alt="z" />
 - 🌱 I’m currently learning **GraphQL, Next js and a lot of web **
 
 - 💬 Ask me about **MERN , MEAN , NEXT  anything javascripty**
