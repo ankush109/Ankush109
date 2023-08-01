@@ -19,7 +19,6 @@
 
 
 
-[![Ankush's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ankush109&theme=react-dark)](https://github.com/Ankush109)
 
 
   
