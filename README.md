@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **GraphQL, Next js and a lot of web **
 
 - 💬 Ask me about **MERN , MEAN , NEXT  anything javascripty**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankush109&label=Profile%20views&color=0e75b6&style=flat" alt="kaushan-dutta" /> </p>
 - 📫 How to reach me **banerjeeankush184@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
