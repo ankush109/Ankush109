@@ -4,7 +4,9 @@
 
 <img  align="center"  src="https://media.tenor.com/LRX70W-QD7MAAAAC/jjk-jujutsu-kaisen.gif" alt="z" />
 - 🌱 I’m currently learning **GraphQL, Next js and a lot of web **
+  
 - 💬 Ask me about **MERN , MEAN , NEXT  anything javascripty**
+  
 - 📫 How to reach me **banerjeeankush184@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankush109&label=Profile%20views&color=0e75b6&style=flat" alt="kaushan-dutta" /> </p>
 
@@ -12,7 +14,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ankush-banerjee-05b0b421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushan-dutta-bb68b021a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_ankush_003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=ku975ur7n2dz&utm_content=mu30h6s" height="30" width="40" /></a>
-
+<a href="https://www.leetcode.com/ankush_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushan_5409" height="30" width="40" /></a>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ankush109&theme=juicyfresh)](https://github.com/Ankush109/github-profile-trophy)
 
 # 💻 Tech Stack:
