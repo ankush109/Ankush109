@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ankush Banerjee</h1>
-<h3 align="center">I like to code </h3>
+<h3 align="center">I like to code </> </h3>
 
 
- - I am proficient in Full Stack Development
- - I can rant about Javascript all day
- - I love to build end to end systems
+ - I am proficient in Full Stack Development.
+ - I can rant about Javascript all day.
+ - I love to build end to end systems.
  - I try to improve my skills to become a better Developer.
  - You can visit my portfolio to know more about me https://ankush-port3-0.vercel.app/
-  
--  I’m currently learning **real time backend communications ie WebRTC & WebSockets**
-  
+ - I love to watch anime and go to the gym to keep myself calm. 
+ 
 - 📫 How to reach me **banerjeeankush184@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankush109&label=Profile%20views&color=0e75b6&style=flat" alt="kaushan-dutta" /> </p>
 
